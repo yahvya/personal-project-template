@@ -15,7 +15,7 @@
 
 ### Branch
 
-- main (complete versions) - PROTECTED BY PULL REQUEST
+- master (complete versions) - PROTECTED BY PULL REQUEST
 - dev (developed features) - PROTECTED BY PULL REQUEST
 - autotests (developed automatic tests) - PROTECTED BY PULL REQUEST
 - design (available design elements) - PROTECTED BY PULL REQUEST
