@@ -20,7 +20,7 @@
 - autotests (developed automatic tests) - PROTECTED BY PULL REQUEST
 - design (available design elements) - PROTECTED BY PULL REQUEST
 - documentation (developed documentation) - PROTECTED BY PULL REQUEST
-- <branch_name>/features/<feature_name>
+- features/<branch_name>/<feature_name>
 
 ### Folder structure
 
