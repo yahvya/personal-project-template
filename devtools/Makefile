@@ -54,8 +54,8 @@ project-create-init-branches:
 
 # init the project
 project-init:	
-	@echo "Create initialization branches"
+	@echo Create initialization branches
 	@make project-create-init-branches
-	@echo "Everything is ok"
+	@echo Everything is ok
 	
 #]
