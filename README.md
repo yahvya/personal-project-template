@@ -40,6 +40,13 @@
 
 ### Commit norm
 
+Each commit line is prefixed by :
+
+ADD : for new code
+FIX : for changes due to a problem
+MODIFY : for changes
+DELETE : for deletion
+
 ## Prerequisites
 
 - Git
