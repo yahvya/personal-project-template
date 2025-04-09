@@ -32,11 +32,13 @@
 - devtools (custom development tools)
 - .github/workflows (github action configs)
 
-## GitHub Flow
+### GitHub Flow
 
 - main : the main branch merge elements from (dev, autotests, design, documentation)
 - (dev, autotests, design, documentation) : these branches merge elements from feature branches
 - <branch_name>/features/<feature_name> : features branches are created from the <branch_name> branch
+
+### Commit norm
 
 ## Prerequisites
 

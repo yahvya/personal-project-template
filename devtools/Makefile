@@ -26,7 +26,7 @@ project-create-init-branches:
 	git branch features/autotests/init
 	git switch features/autotests/init
 	git push --set-upstream origin features/autotests/init
-	git switch master
+	git switch $(GITHUB_ORIGIN)
 # design branch
 	git branch design
 	git switch design
@@ -34,7 +34,7 @@ project-create-init-branches:
 	git branch features/design/init
 	git switch features/design/init
 	git push --set-upstream origin features/design/init
-	git switch master
+	git switch $(GITHUB_ORIGIN)
 # dev branch
 	git branch dev
 	git switch dev
@@ -42,7 +42,7 @@ project-create-init-branches:
 	git branch features/dev/init
 	git switch features/dev/init
 	git push --set-upstream origin features/dev/init
-	git switch master
+	git switch $(GITHUB_ORIGIN)
 # documentation branch
 	git branch documentation
 	git switch documentation
@@ -50,7 +50,7 @@ project-create-init-branches:
 	git branch features/documentation/init
 	git switch features/documentation/init
 	git push --set-upstream origin features/documentation/init
-	git switch master
+	git switch $(GITHUB_ORIGIN)
 
 # init the project
 project-init:	
