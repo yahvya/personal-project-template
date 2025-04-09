@@ -60,4 +60,4 @@
 
 ## Util links 
 
-- [https://github.com/users/<github_pseudo>/projects/<github_project_id>](GitHub Project)
+- [GitHub Project](https://github.com/users/<github_pseudo>/projects/<github_project_id>)
