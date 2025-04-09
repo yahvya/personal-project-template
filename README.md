@@ -4,8 +4,8 @@
 
 ## Important informations
 
-**Licence** : <license>
-**Creation date** : <creation_date>
+- **Licence** : <license>
+- **Creation date** : <creation_date>
 
 ## Team
 
