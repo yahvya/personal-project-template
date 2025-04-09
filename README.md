@@ -36,7 +36,7 @@
 
 - main : the main branch merge elements from (dev, autotests, design, documentation)
 - (dev, autotests, design, documentation) : these branches merge elements from feature branches
-- <branch_name>/features/<feature_name> : features branches are created from the <branch_name> branch
+- features/<branch_name>/<feature_name> : features branches are created from the <branch_name> branch
 
 ### Commit norm
 
